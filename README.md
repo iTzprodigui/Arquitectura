@@ -6,8 +6,6 @@ _En este proyecto hicimos uso de un sistema simple de sockets, para la transfere
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 
 ### Pre-requisitos :clipboard:
 
@@ -47,7 +45,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores :black_nib:
 
-* **Carlos Castillo** - *Trabajo Inicial* - [CarlosCasti](https://github.com/iTzprodigui)
+* **Carlos Castillo** - *Trabajo Inicial* - [CarlosCastillo](https://github.com/iTzprodigui)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/iTzprodigui/Arquitectura/graphs/contributors) quíenes han participado en este proyecto. 
 
